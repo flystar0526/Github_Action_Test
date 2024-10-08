@@ -1,0 +1,17 @@
+name: README Activity Update Action
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: README Activity Update Action
+        uses: TheDanniCraft/activity-log@v1
+        with:
+          GITHUB_USERNAME: "flystar0526"
+          GITHUB_TOKEN: ${{ secrets.ACTION_KEY }}
