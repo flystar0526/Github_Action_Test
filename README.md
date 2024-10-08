@@ -1,7 +1,5 @@
 # Github_Action_Test
 
-- 已修習物件導向程式設計
-- 已修習進階物件導向程式設計
-- 已修習資料結構
-- 已修習演算法
-- 已修習資料庫管理系統
+### Recent Activities
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
