@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: README Activity Update Action
-        uses: TheDanniCraft/activity-log@v1
+        uses: flystar0526/activity-log@latest
         with:
           GITHUB_USERNAME: "flystar0526"
           GITHUB_TOKEN: ${{ secrets.ACTION_KEY }}
