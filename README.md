@@ -2,14 +2,14 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 📝 Committed to [xLanStar/just-go-web](https://github.com/xLanStar/just-go-web/commit/1bf45d9c70a2575a91fe734279b9dd6756a86f19)
-2. 📝 Committed to [xLanStar/just-go-web](https://github.com/xLanStar/just-go-web/commit/397de3283f2993baa5c14ce3c31210251d0120ba)
-3. 🗑️ Deleted a branch `verify_token` in [noob409/just-go-server](https://github.com/noob409/just-go-server)
-4. 📝 Committed to [noob409/just-go-server](https://github.com/noob409/just-go-server/commit/b41d563ce5addb93665a0a15e6076bbca5231f8e)
-5. 🔀 Merged [PR #16](https://github.com/noob409/just-go-server/pull/16) in [noob409/just-go-server](https://github.com/noob409/just-go-server)
-6. 📥 Opened [PR #16](https://github.com/noob409/just-go-server/pull/16) in [noob409/just-go-server](https://github.com/noob409/just-go-server)
-7. ➕ Created a new branch [`verify_token`](https://github.com/noob409/just-go-server/tree/verify_token) in [noob409/just-go-server](https://github.com/noob409/just-go-server)
-8. ➕ Created a new branch [`request`](https://github.com/xLanStar/just-go-web/tree/request) in [xLanStar/just-go-web](https://github.com/xLanStar/just-go-web)
-9. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-10. 🆕 Opened an issue [#4](https://github.com/flystar0526/Github_Action_Test/issues/4) in [flystar0526/Github_Action_Test](https://github.com/flystar0526/Github_Action_Test)
+1. 📝 Committed to [flystar0526/Github_Action_Test](https://github.com/flystar0526/Github_Action_Test/commit/1624d02b9b627c7ed77d733b4ffed2a11535d32a)
+2. ❌ Closed an issue [#4](https://github.com/flystar0526/Github_Action_Test/issues/4) in [flystar0526/Github_Action_Test](https://github.com/flystar0526/Github_Action_Test)
+3. 📝 Committed to [flystar0526/Github_Action_Test](https://github.com/flystar0526/Github_Action_Test/commit/614bc615ba732d043bc45fbbdbf4a7a7c3dc15ec)
+4. 🔀 Merged [PR #5](https://github.com/flystar0526/Github_Action_Test/pull/5) in [flystar0526/Github_Action_Test](https://github.com/flystar0526/Github_Action_Test)
+5. 📥 Opened [PR #5](https://github.com/flystar0526/Github_Action_Test/pull/5) in [flystar0526/Github_Action_Test](https://github.com/flystar0526/Github_Action_Test)
+6. 📝 Committed to [flystar0526/Github_Action_Test](https://github.com/flystar0526/Github_Action_Test/commit/614bc615ba732d043bc45fbbdbf4a7a7c3dc15ec)
+7. 📝 Committed to [flystar0526/Github_Action_Test](https://github.com/flystar0526/Github_Action_Test/commit/undefined)
+8. 📝 Committed to [flystar0526/Github_Action_Test](https://github.com/flystar0526/Github_Action_Test/commit/9e520ad685747c03cb8cd6969f6a0722770e582a)
+9. ➕ Created a new branch [`4-activity-log`](https://github.com/flystar0526/Github_Action_Test/tree/4-activity-log) in [flystar0526/Github_Action_Test](https://github.com/flystar0526/Github_Action_Test)
+10. 📝 Committed to [flystar0526/activity-log](https://github.com/flystar0526/activity-log/commit/24f545c6bc2049fdc347120b539841977eaeca66)
 <!--END_SECTION:activity-->
